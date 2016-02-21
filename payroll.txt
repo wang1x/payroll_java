@@ -1,0 +1,8 @@
+Manager:Tommy, ID:0001, Salary:10000.00
+
+Commission worker:Sam, ID:0002, basepay:4000.00, commission rate:0.30, commission sale:5000.00, Payment:5500.00
+
+Hourly worker:Kim, ID:0003, hourly pay:60.00, working hours:50.0 Payment:3300.00,
+
+Piece worker:Tad, ID:0004, piece price:70.00, pieces:60.000000, Payment:4200.00
+
